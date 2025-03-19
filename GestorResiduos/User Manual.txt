@@ -1,0 +1,3 @@
+This is an app made with Java in NetBeans. It uses databases and basic Java concepts as well as UI/UX. Its purpose is to provide a place where you can learn the basics about recycling, and if desired, add or remove waste, which contains basic information about the waste.
+
+To use it, you need to have the NetBeans application installed and open the file GestorResiduos in that application. Once opened, compile and test it!
